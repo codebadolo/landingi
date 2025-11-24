@@ -1,0 +1,56 @@
+/* =========================================
+   CONTENU POLITIQUE DE CONFIDENTIALITÉ
+========================================= */
+
+.privacy-section {
+    padding: 80px 0;
+}
+
+.privacy-section h1 {
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #04bb84;
+}
+
+.privacy-section h2 {
+    font-size: 24px;
+    color: #029f71;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+.privacy-section p,
+.privacy-section ul {
+    font-size: 16px;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+.privacy-section ul {
+    padding-left: 20px;
+}
+
+.privacy-section li {
+    margin-bottom: 8px;
+}
+
+/* Bouton retour */
+.back-btn-container {
+    margin-top: 40px;
+}
+
+.back-btn-container .btn-primary {
+    padding: 12px 22px;
+    background: #04bb84;
+    border-radius: 8px;
+    color: white;
+    font-weight: 500;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+.back-btn-container .btn-primary:hover {
+    background: #029f71;
+    transform: translateY(-2px);
+}
